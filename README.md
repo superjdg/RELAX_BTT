@@ -1,4 +1,8 @@
 # RELAX_BTT
+
+The related article：[https://ieeexplore.ieee.org/abstract/document/10286048](https://ieeexplore.ieee.org/abstract/document/10286048)
+
+
 Please cite
 
 @article{wang2023min, 
